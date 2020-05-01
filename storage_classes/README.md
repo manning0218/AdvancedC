@@ -1,3 +1,3 @@
-#Storage Classes
+# Storage Classes
 
-[Advanced C](../README.md)
+[Advanced C](..)
