@@ -6,3 +6,4 @@ I will be using both the Visual Studio Code IDE and vim for development.
 1. [Storage Classes](./storage_classes)
 2. [Advanced Data Types](./advanced_data_types)
 3. [Bit Manipulation] (./bit_manipulation)
+4. [Advanced Control Flow] (./advanced_control_flow)
