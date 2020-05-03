@@ -7,3 +7,4 @@ I will be using both the Visual Studio Code IDE and vim for development.
 2. [Advanced Data Types](./advanced_data_types)
 3. [Bit Manipulation] (./bit_manipulation)
 4. [Advanced Control Flow] (./advanced_control_flow)
+5. [Input Output] (./input_output)
